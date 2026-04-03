@@ -1,0 +1,15 @@
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Mac junk
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
