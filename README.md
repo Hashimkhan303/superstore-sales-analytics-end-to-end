@@ -61,20 +61,20 @@ The final output is an interactive Power BI dashboard that allows stakeholders t
 ## Project Structure
 superstore-sales-analytics-end-to-end/
 │
-\├── Data/
-│ \├── superstore_raw.csv # Original dataset
-│ \└── superstore_clean.csv # Cleaned & processed data
+├── Data/
+│ ├── superstore_raw.csv # Original dataset
+│ └── superstore_clean.csv # Cleaned & processed data
 │
-\├── Notebooks/
-│ \└── sales_analysis.ipynb # Complete Python EDA
+├── Notebooks/
+│ └── sales_analysis.ipynb # Complete Python EDA
 │
-\├── Dashboard/
-│ \├── SuperStore Sales Analysis Dashboard.pbix # Power BI file
-│ \└── Power BI Dashboard.png # Dashboard preview
+├── Dashboard/
+│ ├── SuperStore Sales Analysis Dashboard.pbix # Power BI file
+│ └── Power BI Dashboard.png # Dashboard preview
 │
-\├── .gitignore
-\├── README.md
-\└── requirements.txt
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 text
 
